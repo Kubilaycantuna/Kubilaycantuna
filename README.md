@@ -16,5 +16,4 @@ I am a second grade student at Bahçeşehir University in İstanbul. I am a 20 y
 <p align="left">
 <a href="https://www.linkedin.com/in/kubilaycantuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kubilaycantuna" height="30" width="40" /></a>
 
-<a href="https://medium.com/@kubilaycann.tuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium-alt.svg" alt="Kubilaycantuna" height="30" width="40" /></a>
 
